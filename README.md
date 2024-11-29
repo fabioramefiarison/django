@@ -55,7 +55,7 @@ Avant de commencer, assurez-vous d'avoir :
 
 ## Usage
 
-- Accédez à l'URL principale du projet (par défaut `http://127.0.0.1:8000/`) pour afficher la liste des membres.
+- Accédez à l'URL principale du projet (par défaut `http://127.0.0.1:8000/members `) pour afficher la liste des membres.
 - Utilisez l'interface d'administration de Django pour ajouter, modifier ou supprimer des membres.
 
 ---
