@@ -71,7 +71,7 @@ Avant de commencer, assurez-vous d'avoir :
 ## Exemples
 
 - **Scénario typique** : Ajoutez des membres via l'interface d'administration, puis accédez à la page principale pour voir leur liste mise à jour.
-- **Exemple visuel** : Chaque membre est affiché avec des détails tels que son nom, son email et la date de son adhésion.
+- **Exemple visuel** : Chaque membre est affiché avec des détails tels que son nom, son numéro et la date de son adhésion.
 
 ---
 
